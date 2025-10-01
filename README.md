@@ -32,3 +32,4 @@ This project predicts **car prices** based on various features
 - **XGBoost Regressor**  
 
 
+**Dataset:** [Car Price Prediction Challenge (Kaggle)](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge) — dataset used for this project.
